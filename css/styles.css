@@ -1,0 +1,14 @@
+.container {
+  padding-top: 50px;
+  max-width: 800px;
+  margin-left: 10px;
+}
+
+#story {
+  display: none;
+  padding-top: 50px;
+}
+
+.form-group{
+  max-width: 300px;
+}
