@@ -1,6 +1,6 @@
 # _Javascript MadLib_
 
-#### _Collection of Week 1 HTML and CSS projects, Jan. 12th 2016_
+#### _MadLib web app, Jan. 12th 2016_
 
 #### By _**Veronica Alley**_
 
